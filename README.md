@@ -21,7 +21,7 @@ Download link (for reference):
 
 ## 🚀 Getting Started
 
-## Clone the repository:
+### Clone the repository:
 ```bash
 git clone https://github.com/soniasafaii/tennis_project.git
 cd tennis_project
