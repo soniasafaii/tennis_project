@@ -26,6 +26,7 @@ Download link (for reference):
 git clone https://github.com/soniasafaii/tennis_project.git
 cd tennis_project
 ```
+___
 ##Install dependencies:
 pip install -r requirements.txt
 #Open the main notebook:
