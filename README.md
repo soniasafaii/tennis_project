@@ -26,12 +26,12 @@ Download link (for reference):
 git clone https://github.com/soniasafaii/tennis_project.git
 cd tennis_project
 ```
-Install dependencies:
+#Install dependencies:
 pip install -r requirements.txt
-Open the main notebook:
+#Open the main notebook:
 notebooks/TennisProject.ipynb
 
-👥 Contributors:
+#👥 Contributors:
 Data extraction: Jabarzade Zeynab 
 Analysis: Jabarzade Zeyanab, Safaei Sonia, Ahmadi Ali
 
